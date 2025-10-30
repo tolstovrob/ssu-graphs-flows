@@ -71,7 +71,7 @@
   content
 ) = {
   show raw: set text(
-    font: "JetBrains Mono",
+    font: "JetBrainsMono NF",
     ligatures: false,
     features: (calt: 0)
   )
