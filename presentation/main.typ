@@ -285,7 +285,9 @@ func FordFulkerson(G, s, t):
 #pause
 + Найти максимальный поток в графе:
 
-#image("image-1.png", width: 60%)
+---
+
+#image("photo_2025-10-31_12-22-08.jpg", width: 80%)
 
 Домашнее задание по графам:
 
